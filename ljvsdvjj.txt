@@ -1,0 +1,2 @@
+1, http://qqqq.snucse.org
+2, http://qqqq.snucse.org/@@amazon/
