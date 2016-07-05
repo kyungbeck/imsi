@@ -1,2 +1,2 @@
-1, http://qqqq.snucse.org
-2, http://qqqq.snucse.org/@@amazon/
+1, https://raw.githubusercontent.com/kyungbeck/imsi/master/gbkosldajfl3jksdf.txt
+2, https://raw.githubusercontent.com/kyungbeck/imsi/master/gbensdalfjlsdjfkjfksajd.txt
