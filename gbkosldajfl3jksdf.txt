@@ -1,0 +1,90 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>명경백 소개 | 서울대학교 컴퓨터공학부</title>
+	<script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+	<meta name="description" content="&quot;언제나 부족하지만 좋은 모습 보일 수 있도록 노력하겠습니다. 감사합니다.&quot;">
+
+<!-- Open Graph protocol opg.me -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="명경백 소개 | 서울대학교 컴퓨터공학부">
+<meta property="og:description" content="&quot;언제나 부족하지만 좋은 모습 보일 수 있도록 노력하겠습니다. 감사합니다.&quot;">
+<meta property="og:image" content="http://qqqq.snucse.org/Myung_Gyung-baek_Hongdae_20140629.jpg">
+
+<!-- google analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-80199188-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+<!-- naver webmastertool -->
+<!-- naver analytics -->
+<script type="text/javascript" src="http://wcs.naver.net/wcslog.js"></script>
+<script type="text/javascript">
+	if(!wcs_add) var wcs_add = {};
+	wcs_add["wa"] = "1475efcd10c8b5c";
+	wcs_do();
+</script>
+	<style>
+	/* margin - border - padding - content */
+	p.title {
+		font-size:1.6em;
+	}
+	p.section { 
+		font-size:1.4em;
+		margin-top:-0.4em;
+	}
+	ul {
+		margin-top:-1.2em;
+	}
+	</style>
+</head>
+
+
+<body>
+	<p class="title">명경백 소개</p>
+
+	<p><img src="Myung_Gyung-baek_Hongdae_20140629.jpg" width="200"></p>
+
+	<p class="section">학력</p>
+	<ul>
+		<li>서울대학교 컴퓨터공학부 졸업</li>
+	</ul>
+	
+	<p class="section">경력</p>
+	<ul>
+		<li>서울대학교 통계학과 홈페이지 개발</li>
+		<li>서울대학교-삼성전자 SW 공동연구센터 인턴</li>
+		<li>대한민국 해군 장교</li>
+	</ul>
+
+	<p class="section">상</p>
+	<ul>
+		<li>서울시장상 수상</li>
+		<li>서울대학교-LG CNS 소프트웨어 응용 수업 인기상 수상</li>
+	</ul>
+
+	<p class="section">자격증</p>
+	<ul>
+		<li>정보처리기사</li>
+		<li>SCJP</li>
+	</ul>
+
+	<p class="section">기고</p>
+	<ul>
+		<li>서울대학교 컴퓨터공학부 졸업논문 시멘틱 크롤러</li>
+		<li>리눅스 월드 미러링</li>
+	</ul>
+
+	<p class="section">운동</p>
+	<ul>
+		<li>서울대학교 컴퓨터공학부 스누씨 리그 우승</li>
+	</ul>
+</body>
+</html>

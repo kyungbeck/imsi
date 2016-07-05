@@ -1,0 +1,90 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Introduction of Myung Gyung-baek | Computer Science and Engineering, Seoul National University</title>
+	<script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+	<meta name="description" content="&quot;But I am always insufficient, I will try best to become a good person. Thank you.&quot;">
+
+<!-- Open Graph protocol opg.me -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="Introduction of Myung Gyung-baek | Computer Science and Engineering, Seoul National University">
+<meta property="og:description" content="&quot;But I am always insufficient, I will try best to become a good person. Thank you.&quot;">
+<meta property="og:image" content="http://qqqq.snucse.org/Myung_Gyung-baek_Hongdae_20140629.jpg">
+
+<!-- google analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-80199188-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+<!-- naver webmastertool -->
+<!-- naver analytics -->
+<script type="text/javascript" src="http://wcs.naver.net/wcslog.js"></script>
+<script type="text/javascript">
+	if(!wcs_add) var wcs_add = {};
+	wcs_add["wa"] = "1475efcd10c8b5c";
+	wcs_do();
+</script>
+	<style>
+	/* margin - border - padding - content */
+	p.title {
+		font-size:1.6em;
+	}
+	p.section { 
+		font-size:1.4em;
+		margin-top:-0.4em;
+	}
+	ul {
+		margin-top:-1.2em;
+	}
+	</style>
+</head>
+
+
+<body>
+	<p class="title">Introduction of Myung Gyung-baek</p>
+
+	<p><img src="Myung_Gyung-baek_Hongdae_20140629.jpg" width="200"></p>
+
+	<p class="section">Education</p>
+	<ul>
+		<li>Bachelor of Science in Computer Science and Engineering, Seoul National University</li>
+	</ul>
+	
+	<p class="section">Work Experience</p>
+	<ul>
+		<li>Hompage development, Department of Statistics, Seoul National University</li>
+		<li>Intern, Center for Intelligent Computing, Seoul National University-Samsung Electronics</li>
+		<li>Officer, Republic of Korea Navy</li>
+	</ul>
+
+	<p class="section">Honor</p>
+	<ul>
+		<li>Seoul Mayor's Award, Seoul Metropolitan Government</li>
+		<li>Choice Prize, Software Application Class, Seoul National University-LG CNS</li>
+	</ul>
+
+	<p class="section">License</p>
+	<ul>
+		<li>Engineer Information Processing, Human Resources Development Service of Korea</li>
+		<li>Sun Certified Programmer for the Java 2 Platform 1.2</li>
+	</ul>
+
+	<p class="section">Writing</p>
+	<ul>
+		<li>Semantic Crawler, Bachelor's thesis, Department of Computer Science and Engineering, Seoul National University</li>
+		<li>Mirroring, Linux World</li>
+	</ul>
+
+	<p class="section">Sport</p>
+	<ul>
+		<li>Champions, Seoul National University Computer Science and Engineering League</li>
+	</ul>
+</body>
+</html>
